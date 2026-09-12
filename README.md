@@ -1,6 +1,6 @@
-# TAMM - Task for the frontEnd
+# TMM - Task for the frontEnd
 
-### This repository contains the following 2 tasks from the TAMM document
+### This repository contains the following 2 tasks from the TMM document
 
 1. Write higher order component in React
    HOC should provide property mouseOver to child component if mouse is over or mouse is out of the component.
